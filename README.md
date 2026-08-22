@@ -1,6 +1,6 @@
 # Zenit-Minecraft-Cheat
-🚀 Zenith — Absolute Domination Client 🚀
-# 📥 Запуск Zenith Client
+🚀 Zenit — Absolute Domination Client 🚀
+# 📥 Запуск Zenit Client
 
 Для старта игры нажмите кнопку **ЗАПУСТИТЬ** в главном меню лаунчера.
 
